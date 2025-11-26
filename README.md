@@ -1,4 +1,3 @@
-# Retail-Analytics-Copilot
 
 # Retail Analytics Copilot
 
